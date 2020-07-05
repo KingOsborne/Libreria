@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Libreria</string>
+    <string name="error_loading_information">Error Loading Information</string>
 </resources>
